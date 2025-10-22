@@ -165,16 +165,17 @@ Cluster nodes and Container logs are available in **Azure Monitor** (AKS).
 See ```SECURITY.md``` for details.
 
 ---
-### Links
-#### Deployed App: [Expensy App Deployment on Aks cluster](https://najhack.online/home)
+### Links (*valid until Azure subscription expiry)
+#### *Deployed App: [Expensy App Deployment on Aks cluster](https://najhack.online/home)
 
-#### Infrastructure Monitoring: [Grafana Dashboard to visualize Nodes Metrics](http://74.162.96.12/d/beiyxmcdom58gb/dashboard-expensy-nodes?orgId=1&from=now-6h&to=now&timezone=browser)
+#### *Infrastructure Monitoring: [Grafana Dashboard to visualize Nodes Metrics](http://74.162.96.12/d/beiyxmcdom58gb/dashboard-expensy-nodes?orgId=1&from=now-6h&to=now&timezone=browser)
 
-#### Backend Monitoring: [Grafana Dashboard to visualize Backend Metrics](http://74.162.96.12/d/fej6zfxedsrnke/dashboard-expensy-backend?orgId=1&from=now-5m&to=now&timezone=browser&refresh=5s)
+#### *Backend Monitoring: [Grafana Dashboard to visualize Backend Metrics](http://74.162.96.12/d/fej6zfxedsrnke/dashboard-expensy-backend?orgId=1&from=now-5m&to=now&timezone=browser&refresh=5s)
 
-#### Application Alerts: [Business & Technical Alerts](http://20.174.44.52:9090/alerts)
+#### *Application Alerts: [Business & Technical Alerts](http://20.174.44.52:9090/alerts)
 
-#### Azure Logging: [Azure Monitor](https://portal.azure.com/#@educationazureironhack.onmicrosoft.com/resource/subscriptions/1ca8d3ea-3b84-49f5-afde-7b4ebe3a62eb/resourceGroups/expensyAksRG/providers/Microsoft.ContainerService/managedClusters/expensyAksCluster/monitor)
+#### *Azure Logging: [Azure Monitor](https://portal.azure.com/#@educationazureironhack.onmicrosoft.com/resource/subscriptions/1ca8d3ea-3b84-49f5-afde-7b4ebe3a62eb/resourceGroups/expensyAksRG/providers/Microsoft.ContainerService/managedClusters/expensyAksCluster/monitor)
 
 #### Git: [Github repository Link](https://github.com/najjaved/devOps-expense-tracker-app)
+
 
